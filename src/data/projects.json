@@ -1,34 +1,51 @@
 [
   {
+    "title": "Sony Music",
+    "imageSrc": "projects/sonymusic.jpg",
+    "description": "I had a put a lot of effort of this project, with new concepts   ",
+    "skills": ["React", "Node"],
+    "demo": "https://master--admirable-biscochitos-b340d0.netlify.app/",
+    "source": "https://github.com/Mugesz/frontend"
+  },
+  {
     "title": "Order Mangement",
-    "imageSrc": "projects/project.png",
-    "description": "Proven expertise in crafting dynamic and responsive web applications. ",
+    "imageSrc": "projects/order.jpg",
+    "description": "This app is for my first API integration with CRUD operations ",
     "skills": ["React","Postman"],
     "demo": "https://dynamic-muffin-a98703.netlify.app",
     "source": "https://github.com/Mugesz/my-admin"
   },
   {
     "title": "Shopping cart",
-    "imageSrc": "projects/project.png",
-    "description": "Proven expertise in crafting dynamic and responsive web applications. ",
+    "imageSrc": "projects/shopping.jpg",
+    "description": "Creating app is giving us joy , created for my career purpose. ",
     "skills": ["React", "redux"],
     "demo": "https://main--loquacious-brigadeiros-1ac87a.netlify.app/",
     "source": "https://github.com/Mugesz/react-eighttask"
   },
   {
     "title": "Booking app",
-    "imageSrc": "projects/project.png",
-    "description": "Proven expertise in crafting dynamic and responsive web applications. ",
+    "imageSrc": "projects/booked.jpg",
+    "description": "The app Which I created for my final year project.",
     "skills": ["React", "Javascript"],
     "demo": "https://master--sage-rabanadas-169801.netlify.app/",
     "source": "https://github.com/Mugesz/reserve"
   },
   {
     "title": "Booking UI",
-    "imageSrc": "projects/project.png",
-    "description": "Proven expertise in crafting dynamic and responsive web applications. ",
+    "imageSrc": "projects/bookingui.png",
+    "description": "The first website created in my development career. ",
     "skills": ["React", "Javascript"],
     "demo": "https://main--meek-truffle-52e8af.netlify.app/home",
+    "source": "https://github.com/Mugesz/frontend"
+  },
+
+  {
+    "title": "Pet Shop",
+    "imageSrc": "projects/goldenretriver.jpg",
+    "description": "This App is my first freelancing website. ",
+    "skills": ["React", "Javascript"],
+    "demo": "https://main--friendly-malasada-4ddf1b.netlify.app/",
     "source": "https://github.com/Mugesz/frontend"
   }
 ]

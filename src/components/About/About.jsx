@@ -12,6 +12,7 @@ export const About = () => {
           src={getImageUrl("about/aboutImage.jpg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
+          style={{borderRadius:"25px"}}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
