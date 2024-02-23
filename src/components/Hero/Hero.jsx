@@ -12,8 +12,8 @@ export const Hero = () => {
           I'm a full-stack developer With React and
           NodeJS.Feel free to Connect 
         </p>
-        <a href="mailto:kannamugesh135@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://drive.google.com/file/d/1Z9QMm3pTj140HvFzCv_d0sUHSeAGfRO8/view?usp=drivesdk" target="#" className={styles.contactBtn}>
+         View Cv
         </a>
       </div>
       <img
