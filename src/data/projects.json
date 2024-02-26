@@ -11,7 +11,7 @@
     "title": "Order Mangement",
     "imageSrc": "projects/order.jpg",
     "description": "This app is for my first API integration with CRUD operations ",
-    "skills": ["React","Postman"],
+    "skills": ["React","RestApi"],
     "demo": "https://dynamic-muffin-a98703.netlify.app",
     "source": "https://github.com/Mugesz/my-admin"
   },
@@ -32,12 +32,12 @@
     "source": "https://github.com/Mugesz/reserve"
   },
   {
-    "title": "Orders Management",
+    "title": "javascript Crud",
     "imageSrc": "projects/orders-manangement.png",
-    "description": "A Mern App with schedulig tasks. ",
-    "skills": ["React", "RestApi"],
-    "demo": "https://dynamic-muffin-a98703.netlify.app/",
-    "source": "https://github.com/Mugesz/my-admin"
+    "description": "A Crud app with javascript ",
+    "skills": ["Javascript"],
+    "demo": "https://mellifluous-raindrop-b998d9.netlify.app/",
+    "source": "https://github.com/Mugesz/Js-crud-app/tree/main/CRUD"
   },
 
   {
