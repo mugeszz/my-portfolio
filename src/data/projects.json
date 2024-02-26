@@ -32,12 +32,12 @@
     "source": "https://github.com/Mugesz/reserve"
   },
   {
-    "title": "Booking UI",
+    "title": "Task Management",
     "imageSrc": "projects/bookingui.png",
-    "description": "The first website created in my development career. ",
-    "skills": ["React", "Javascript"],
-    "demo": "https://main--meek-truffle-52e8af.netlify.app/home",
-    "source": "https://github.com/Mugesz/frontend"
+    "description": "A Mern App with schedulig tasks. ",
+    "skills": ["React", "Node"],
+    "demo": "https://rococo-sundae-8b37d6.netlify.app/",
+    "source": "https://github.com/Mugesz/task-frontend"
   },
 
   {
@@ -45,7 +45,7 @@
     "imageSrc": "projects/goldenretriver.jpg",
     "description": "This App is my first freelancing website. ",
     "skills": ["React", "Javascript"],
-    "demo": "https://main--friendly-malasada-4ddf1b.netlify.app/",
-    "source": "https://github.com/Mugesz/frontend"
+    "demo": "https://ganapathy-pets-aquarium.netlify.app/",
+    "source": "https://github.com/Mugesz/petshop-frontend"
   }
 ]
