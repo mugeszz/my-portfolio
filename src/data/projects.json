@@ -32,12 +32,12 @@
     "source": "https://github.com/Mugesz/reserve"
   },
   {
-    "title": "Task Management",
-    "imageSrc": "projects/bookingui.png",
+    "title": "Orders Management",
+    "imageSrc": "projects/orders-manangement.png",
     "description": "A Mern App with schedulig tasks. ",
-    "skills": ["React", "Node"],
-    "demo": "https://rococo-sundae-8b37d6.netlify.app/",
-    "source": "https://github.com/Mugesz/task-frontend"
+    "skills": ["React", "RestApi"],
+    "demo": "https://dynamic-muffin-a98703.netlify.app/",
+    "source": "https://github.com/Mugesz/my-admin"
   },
 
   {
