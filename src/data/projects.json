@@ -10,7 +10,7 @@
   {
     "title": "Order Mangement",
     "imageSrc": "projects/order.jpg",
-    "description": "This app is for my first API integration with CRUD operations ",
+    "description": "This app is for my first API integration with CRUD operations and athuntication workflow ",
     "skills": ["React","Node"],
     "demo": "https://dynamic-muffin-a98703.netlify.app",
     "source": "https://github.com/Mugesz/my-admin"
