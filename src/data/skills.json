@@ -31,6 +31,10 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/fire.png"
   }
 
 ]
