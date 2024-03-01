@@ -17,10 +17,10 @@
   },
 
   {
-    "title": "Booking app",
+    "title": "Booking UI",
     "imageSrc": "projects/booked.jpg",
-    "description": "The app Which I created for my final year project.",
-    "skills": ["React", "Node"],
+    "description": "The app Which I created for my final year project,Just UI",
+    "skills": ["React", "Javascript"],
     "demo": "https://meek-truffle-52e8af.netlify.app/home/",
     "source": "https://github.com/Mugesz/frontend/tree/main"
   },
