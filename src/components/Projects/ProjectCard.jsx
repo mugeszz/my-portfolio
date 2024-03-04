@@ -36,3 +36,23 @@ export const ProjectCard = ({
     </div>
   );
 };
+
+
+
+// {
+//   "title": "Booking UI",
+//   "imageSrc": "projects/booked.jpg",
+//   "description": "The app Which I created for my final year project,Just UI",
+//   "skills": ["React", "Javascript"],
+//   "demo": "https://meek-truffle-52e8af.netlify.app/home/",
+//   "source": "https://github.com/Mugesz/frontend/tree/main"
+// },
+
+// {
+//   "title": "Shopping cart",
+//   "imageSrc": "projects/shopping.jpg",
+//   "description": "Creating app is giving us joy , created for my career purpose. ",
+//   "skills": ["React", "redux"],
+//   "demo": "https://main--loquacious-brigadeiros-1ac87a.netlify.app/",
+//   "source": "https://github.com/Mugesz/react-eighttask"
+// },
