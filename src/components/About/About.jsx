@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.jpg")}
+          src={getImageUrl("about/about.png")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
           style={{borderRadius:"25px"}}
@@ -38,7 +38,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI developer</h3>
+              <h3>Webflow developer</h3>
               <p>
                 I have designed multiple landing pages and have created design
                 systems as well

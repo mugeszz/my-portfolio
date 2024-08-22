@@ -64,5 +64,12 @@
     "description": "Knits and Yarns. ",
     "skills": ["webflow", "Javascript"],
     "demo": "https://www.pallavaagroup.com/"
+  },
+  {
+    "title": "Tan Brown",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Trading Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.tanbrowntrading.com/"
   }
 ]
