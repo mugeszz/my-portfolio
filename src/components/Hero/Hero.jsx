@@ -25,6 +25,7 @@ export const Hero = () => {
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
+      
     </section>
   );
 };
