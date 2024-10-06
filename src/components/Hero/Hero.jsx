@@ -20,8 +20,8 @@ export const Hero = () => {
         src={images}
         alt="Hero image of me"
         className={styles.heroImg}
-        height='500px'
-        width='100px'
+        height='350px'
+        width='350px'
       />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
