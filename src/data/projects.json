@@ -51,9 +51,16 @@
   },
     {
     "title": "Rohini Properties",
-    "imageSrc": "projects/tanbrown.png",
-    "description": "Trading Brands ",
+    "imageSrc": "projects/rohini.jpeg",
+    "description": "construction Brands ",
     "skills": ["webflow", "Javascript"],
     "demo": "https://www.rohiniproperties.in/"
+  } ,
+     {
+    "title": "Pands Groups",
+    "imageSrc": "projects/pands.jpeg",
+    "description": "multipke Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.pandsgroups.in/"
   }
 ]
