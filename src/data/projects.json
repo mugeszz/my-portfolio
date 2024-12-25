@@ -34,7 +34,6 @@
     "demo": "https://beautiful-macaron-4a04a7.netlify.app/",
     "source": "https://github.com/Mugesz/clients"
   },
-
   {
     "title": "Pet Shop",
     "imageSrc": "projects/goldenretriver.jpg",
@@ -42,29 +41,7 @@
     "skills": ["React", "Javascript"],
     "demo": "https://ganapathy-pets-aquarium.netlify.app/",
     "source": "https://github.com/Mugesz/petshop-frontend"
-  },
-  {
-    "title": "GoldenCoir tufts",
-    "imageSrc": "projects/golden.jpg",
-    "description": "This is my first companies task. ",
-    "skills": ["Webflow", "Javascript"],
-    "demo": "https://www.goldencoirtufts.com/"
-   
-  },  
-  {
-    "title": "Brink events",
-    "imageSrc": "projects/brink.png",
-    "description": "Dubai client",
-    "skills": ["Webflow", "Javascript"],
-    "demo": "https://brink-events.webflow.io/"
   }, 
-   {
-    "title": "Pallavaa",
-    "imageSrc": "projects/pallavaa.png",
-    "description": "Knits and Yarns. ",
-    "skills": ["webflow", "Javascript"],
-    "demo": "https://www.pallavaagroup.com/"
-  },
   {
     "title": "Tan Brown",
     "imageSrc": "projects/tanbrown.png",
