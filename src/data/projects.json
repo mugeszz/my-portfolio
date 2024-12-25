@@ -48,5 +48,12 @@
     "description": "Trading Brands ",
     "skills": ["webflow", "Javascript"],
     "demo": "https://www.tanbrowntrading.com/"
+  },
+    {
+    "title": "Rohini Properties",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Trading Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.rohiniproperties.in/"
   }
 ]
