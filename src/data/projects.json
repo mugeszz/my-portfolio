@@ -1,5 +1,49 @@
-[
-  {
+[  {
+    "title": "Tan Brown",
+    "imageSrc": "projects/tanbrown.png",
+    "description": "Trading Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.tanbrowntrading.com/"
+  },
+     {
+    "title": "Rohini Properties",
+    "imageSrc": "projects/rohini.jpeg",
+    "description": "construction Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.rohiniproperties.in/"
+  } ,
+
+  
+     {
+    "title": "Pands Groups",
+    "imageSrc": "projects/pands.jpeg",
+    "description": "multiple Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.pandsgroups.in/"
+  },
+      {
+    "title": "Glow pro beauty",
+    "imageSrc": "projects/pands.jpeg",
+    "description": "beauty Brands ",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.glowprobeauty.com.au/"
+  },
+
+   {
+    "title": "pegasussports",
+    "imageSrc": "projects/pands.jpeg",
+    "description": "Equestrian Sport.",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.pegasussports.in/"
+  },
+     {
+    "title": "Castle it solutions",
+    "imageSrc": "projects/pands.jpeg",
+    "description": "Digital Solution.",
+    "skills": ["webflow", "Javascript"],
+    "demo": "https://www.castleitsolutions.com/"
+  },
+    {
     "title": "Sony Music",
     "imageSrc": "projects/sonymusic.jpg",
     "description": "I had a put a lot of effort of this project, with new concepts   ",
@@ -41,26 +85,5 @@
     "skills": ["React", "Javascript"],
     "demo": "https://ganapathy-pets-aquarium.netlify.app/",
     "source": "https://github.com/Mugesz/petshop-frontend"
-  }, 
-  {
-    "title": "Tan Brown",
-    "imageSrc": "projects/tanbrown.png",
-    "description": "Trading Brands ",
-    "skills": ["webflow", "Javascript"],
-    "demo": "https://www.tanbrowntrading.com/"
-  },
-    {
-    "title": "Rohini Properties",
-    "imageSrc": "projects/rohini.jpeg",
-    "description": "construction Brands ",
-    "skills": ["webflow", "Javascript"],
-    "demo": "https://www.rohiniproperties.in/"
-  } ,
-     {
-    "title": "Pands Groups",
-    "imageSrc": "projects/pands.jpeg",
-    "description": "multipke Brands ",
-    "skills": ["webflow", "Javascript"],
-    "demo": "https://www.pandsgroups.in/"
   }
 ]
