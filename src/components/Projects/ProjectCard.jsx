@@ -8,12 +8,12 @@ export const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
-      <img
+      {/* <img
         src={getImageUrl(imageSrc)}
         alt={`Image of ${title}`}
         className={styles.image}
         style={{height:"200px", width:"300px"}}
-      />
+      /> */}
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
       <ul className={styles.skills}>
@@ -56,3 +56,6 @@ export const ProjectCard = ({
 //   "demo": "https://main--loquacious-brigadeiros-1ac87a.netlify.app/",
 //   "source": "https://github.com/Mugesz/react-eighttask"
 // },
+
+
+

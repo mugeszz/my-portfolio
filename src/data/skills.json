@@ -1,4 +1,7 @@
-[
+[  {
+    "title": "Webflow",
+    "imageSrc": "skills/webflowicon.png"
+  },
   {
     "title": "HTML",
     "imageSrc": "skills/html.png"
@@ -10,6 +13,10 @@
   {
     "title": "javascript",
     "imageSrc": "skills/javascript.png"
+  },
+    {
+    "title": "figma",
+    "imageSrc": "skills/figma.png"
   },
   {
     "title": "React",
@@ -35,10 +42,7 @@
   {
     "title": "Firebase",
     "imageSrc": "skills/fire.png"
-  },
-  {
-    "title": "Webflow",
-    "imageSrc": "skills/webflowicon.png"
   }
+
 
 ]
