@@ -9,8 +9,11 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Mugesh Kanna</h1>
         <p className={styles.description}>
-          I'm a full-stack developer With React and
-          NodeJS.Feel free to Connect 
+         I’m a Web Developer with 1 year of experience, specializing in
+          Webflow. I’ve built 10+ responsive, SEO-friendly websites, turning
+          Figma designs into clean, high-performing sites. I also have working
+          knowledge of React and Node.js, expanding my skills in full-stack
+          development.
         </p>
         <a href="https://drive.google.com/file/d/1MgMw_InyMyBtTXsSPHGl_qNoJ54lQ71o/view?usp=sharing" target="_blank" className={styles.contactBtn}>
          View Cv
